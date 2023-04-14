@@ -1,0 +1,19 @@
+
+[2023-04-14T18:28:10.336Z] Thanks for installing Garden! We work hard to provide you with the best experience we can. We collect some anonymized usage data while you use Garden. If you'd like to know more about what we collect or if you'd like to opt out of telemetry, please read more at https://github.com/garden-io/garden/tree/0.12.53/docs/misc/telemetry.md
+
+[2023-04-14T18:28:39.236Z] -> Created new project config in project.garden.yml
+
+[2023-04-14T18:28:39.238Z] -> Copied the .gitignore file at .gardenignore to a new .gardenignore in the same directory. Please edit the .gardenignore file if you'd like Garden to include or ignore different files.
+
+[2023-04-14T18:28:39.241Z] We recommend reviewing the generated config, uncommenting fields that you'd like to
+configure, and cleaning up any commented fields that you don't need to use. Also make sure
+to update the .gardenignore file with any files you'd like to exclude from the Garden
+project.
+
+For more information about Garden configuration files, please check out
+https://docs.garden.io/using-garden/configuration-overview, and for a detailed reference,
+take a look at https://docs.garden.io/reference/config.
+
+[2023-04-14T18:28:39.242Z] Done flushing all events and log entries.
+
+[2023-04-14T18:28:39.730Z] Done flushing all events and log entries.

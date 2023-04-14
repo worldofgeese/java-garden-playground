@@ -1,0 +1,13 @@
+
+[2023-04-14T18:33:12.680Z] -> Created new module config in garden.yml
+
+[2023-04-14T18:33:12.690Z] We recommend reviewing the generated config, uncommenting fields that you'd like to configure, and cleaning up any
+commented fields that you don't need to use.
+
+For more information about container modules, please check out https://docs.garden.io/reference/module-types/container,
+and the container provider docs at https://docs.garden.io/reference/providers/container. For general information about
+Garden configuration files, take a look at https://docs.garden.io/using-garden/configuration-overview.
+
+[2023-04-14T18:33:12.692Z] Done flushing all events and log entries.
+
+[2023-04-14T18:33:13.364Z] Done flushing all events and log entries.
